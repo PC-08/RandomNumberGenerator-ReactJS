@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/RandomNumberGenerator-ReactJS/static/css/main.fdfa9a12.chunk.css",
+    "main.js": "/RandomNumberGenerator-ReactJS/static/js/main.818a5fcf.chunk.js",
+    "main.js.map": "/RandomNumberGenerator-ReactJS/static/js/main.818a5fcf.chunk.js.map",
+    "runtime-main.js": "/RandomNumberGenerator-ReactJS/static/js/runtime-main.7c8a607e.js",
+    "runtime-main.js.map": "/RandomNumberGenerator-ReactJS/static/js/runtime-main.7c8a607e.js.map",
+    "static/js/2.72b87c2e.chunk.js": "/RandomNumberGenerator-ReactJS/static/js/2.72b87c2e.chunk.js",
+    "static/js/2.72b87c2e.chunk.js.map": "/RandomNumberGenerator-ReactJS/static/js/2.72b87c2e.chunk.js.map",
+    "index.html": "/RandomNumberGenerator-ReactJS/index.html",
+    "static/css/main.fdfa9a12.chunk.css.map": "/RandomNumberGenerator-ReactJS/static/css/main.fdfa9a12.chunk.css.map",
+    "static/js/2.72b87c2e.chunk.js.LICENSE.txt": "/RandomNumberGenerator-ReactJS/static/js/2.72b87c2e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c8a607e.js",
+    "static/js/2.72b87c2e.chunk.js",
+    "static/css/main.fdfa9a12.chunk.css",
+    "static/js/main.818a5fcf.chunk.js"
+  ]
+}
